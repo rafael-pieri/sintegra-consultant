@@ -15,7 +15,7 @@ The service will be available at: ```http://localhost:3000```.
 Execute the following command: ```sh shutdown.sh```.
 
 ### Endpoints
-| Goal | Path |
+| Goal | Method | Path |
 | ------------- | ------------- |
-| Public consultation to the taxpayer register | /v1/apis/sintegra/companies/{companyId}/receipts |
+| Public consultation to the taxpayer register | GET | /v1/apis/sintegra/companies/{companyId}/receipts |
 
