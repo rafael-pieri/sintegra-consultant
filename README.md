@@ -11,3 +11,6 @@ Application responsible for searching information of a company in Sintegra.
 
 ### How to stop application
 ```sh shutdown.sh```
+
+### Endpoints
+http://localhost:3000/v1/apis/sintegra/companies/{companyId}/receipts
