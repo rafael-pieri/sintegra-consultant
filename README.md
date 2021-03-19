@@ -1,2 +1,2 @@
 # sintegra-consultant
-Application responsible for consulting the situation of a company with Sintegra
+Application responsible for searching information from a company in Sintegra.
