@@ -1,7 +1,7 @@
 {
   "name": "sintegra-search-engine",
   "version": "1.0.0",
-  "description": "Application responsible for searching information from a company in Sintegra.",
+  "description": "Application responsible for searching information of a company in Sintegra.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
