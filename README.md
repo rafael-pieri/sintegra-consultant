@@ -16,6 +16,6 @@ Execute the following command: ```sh shutdown.sh```.
 
 ### Endpoints
 | Goal | Method | Path |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Public consultation to the taxpayer register | GET | /v1/apis/sintegra/companies/{companyId}/receipts |
 
