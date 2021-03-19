@@ -9,6 +9,7 @@ Application responsible for searching information of a company in Sintegra.
 ### How to start application
 Run the following command:
 ```sh start.sh```
+
 The service will be available at:
 ```http://localhost:3000```
 
@@ -18,5 +19,5 @@ The service will be available at:
 ### Endpoints
 | Goal | Path |
 | ------------- | ------------- |
-| Public Consultation to the Taxpayer Register | /v1/apis/sintegra/companies/{companyId}/receipts |
+| Public consultation to the taxpayer register | /v1/apis/sintegra/companies/{companyId}/receipts |
 
